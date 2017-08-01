@@ -1,2 +1,3 @@
 # toolmateshire
-Test
+
+DATABASE Name = "toolmateshire"
